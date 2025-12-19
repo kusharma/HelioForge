@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kusharma/HelioForge/main/DALLe_HelioForge.png" width="900">
+  <img src="../DALLE_HelloForge.png" width="900" alt="HelioForge banner">
 </p>
 
 
