@@ -1,4 +1,7 @@
-![HelioForge](./DALLE_HelioForge.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kusharma/HelioForge/main/DALLE_HelioForge.png" width="900">
+</p>
+
 
 # PV Toolkit
 
