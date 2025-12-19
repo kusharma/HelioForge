@@ -1,3 +1,5 @@
+![HelioForge](./DALLE_HelioForge.png)
+
 # PV Toolkit
 
 An open-source library for solar geometry calculations, shadow projection analysis, and PV time-series anomaly detection.
