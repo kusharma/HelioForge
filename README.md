@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="../DALLE_HelloForge.png" width="900" alt="HelioForge banner">
+  <img src="https://raw.githubusercontent.com/kusharma/HelioForge/main/DALLe_HelloForge.png" width="900" alt="HelioForge banner">
 </p>
+
 
 
 # PV Toolkit
